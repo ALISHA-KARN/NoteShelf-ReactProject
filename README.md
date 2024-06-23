@@ -1,4 +1,4 @@
-## NoteShelf
+## NoteShelf - React Project
 Note Shelf is a simple note-taking application built with React. Users can add, view, and delete notes.
 
 ## Table of Contents
