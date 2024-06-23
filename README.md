@@ -40,11 +40,10 @@ Note Shelf is a simple note-taking application built with React. Users can add, 
 
 To run the application locally:
 
-Start the development server:
-sh
-Copy code
-npm start
-Open your browser:
+1. Start the development server:
+2. Copy code
+3. npm start
+4. Open your browser:
 Navigate to http://localhost:3000 to view the application.
 
 ## Components
